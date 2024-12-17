@@ -8,3 +8,12 @@ public:
     {
         cout << "Result: " << a + b << endl;
     }
+    void subtract(double a, double b)
+    {
+        cout << "Result: " << a - b << endl;
+    }
+
+    void multiply(double a, double b)
+    {
+        cout << "Result: " << a * b << endl;
+    }
